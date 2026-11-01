@@ -12,23 +12,23 @@ import {
 const config = SITE_CONFIGS.ramji2;
 
 export const metadata: Metadata = {
-  metadataBase: new URL(config.domain),
+  metadataBase: new URL('https://ramji247id.com'),
   title: {
-    default: `${config.name} | India's Premier Sports Betting Exchange & Live Casino`,
-    template: `%s | ${config.name}`,
+    default: "RAMJI247 | India's Most Trusted Online Cricket ID & 60-Second Instant Account Provider",
+    template: "%s | RAMJI247",
   },
   description: config.description,
-  keywords: [
-    'Ramji2',
-    'Ramji 247',
-    'cricket betting exchange',
-    'online cricket id',
-    'live teen patti',
-    'andar bahar online',
-    'instant whatsapp id',
-    'betidworld exchange',
-    'ipl live odds',
-    'fast withdrawal betting'
+  keywords:   [
+      "RAMJI247",
+      "RAMJI247 ID",
+      "Online Cricket ID",
+      "Cricket ID Online",
+      "Cricket ID Provider",
+      "Online Cricket Account",
+      "Cricket ID Registration",
+      "Cricket ID WhatsApp Number",
+      "Fast Withdrawal Cricket ID",
+      "Instant WhatsApp ID"
   ],
   authors: [{ name: config.name }],
   creator: config.name,

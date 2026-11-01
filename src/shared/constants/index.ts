@@ -6,11 +6,11 @@ export const WHATSAPP_LINK = 'https://wa.me/918360750829';
 export const SITE_CONFIGS: Record<string, SiteConfig> = {
   ramji2: {
     id: 'ramji2',
-    name: 'Ramji2',
+    name: 'RAMJI247',
     brandNumber: '2',
-    tagline: "India's Premier Sports Betting Exchange & Live Casino",
-    description: "Experience the royal standard of sports exchange & live dealer gaming with Ramji2. Get an Instant ID in 60 seconds on WhatsApp with 24/7 dedicated support.",
-    domain: 'https://ramji2.com',
+    tagline: "India's Most Trusted Online Cricket ID & 60-Second Instant Account Provider's Premier Sports Betting Exchange & Live Casino",
+    description: "Get your verified RAMJI247 Online Cricket ID on WhatsApp in 60 seconds. Instant refill from ₹100, 2-minute unlimited UPI withdrawals, and 24/7 dedicated support.",
+    domain: 'https://ramji247id.com',
     whatsappNumber: WHATSAPP_NUMBER,
     whatsappUrl: WHATSAPP_LINK,
     defaultWhatsAppMessage: 'Hello Ramji2 Support, I would like to get an Instant ID & Demo details.',
