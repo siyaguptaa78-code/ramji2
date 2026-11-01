@@ -47,6 +47,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: config.domain,
   },
+  verification: {
+    google: 'o2Wxi9OCZ-NJPkkJUn7Kr4oZGQXMIxy6o4GEKadQIJg',
+  },
   openGraph: {
     title: `${config.name} | Official Sports Exchange & Live Casino ID`,
     description: config.description,
