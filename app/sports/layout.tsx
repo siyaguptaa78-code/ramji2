@@ -5,12 +5,12 @@ export const metadata: Metadata = {
   description: "Explore verified cricket match exchange odds, deep market liquidity, and fast settlement on RAMJI247.",
   keywords: ["RAMJI247 sports","cricket exchange id","match odds online","live sports exchange"],
   alternates: {
-    canonical: "https://ramji247id.com/sports",
+    canonical: "https://www.ramji247id.com/sports",
   },
   openGraph: {
     title: "Sports Betting Exchange & Cricket Odds | RAMJI247",
     description: "Explore verified cricket match exchange odds, deep market liquidity, and fast settlement on RAMJI247.",
-    url: "https://ramji247id.com/sports",
+    url: "https://www.ramji247id.com/sports",
     siteName: "RAMJI247",
     images: [
       {

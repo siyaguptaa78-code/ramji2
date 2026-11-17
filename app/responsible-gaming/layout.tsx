@@ -5,12 +5,12 @@ export const metadata: Metadata = {
   description: "RAMJI247 is strictly committed to safe play, 18+ player age verification, self-exclusion options, and player welfare.",
   keywords: ["RAMJI247 responsible gaming","18+ betting limit","self-exclusion india"],
   alternates: {
-    canonical: "https://ramji247id.com/responsible-gaming",
+    canonical: "https://www.ramji247id.com/responsible-gaming",
   },
   openGraph: {
     title: "Responsible Gaming & 18+ Player Protection | RAMJI247",
     description: "RAMJI247 is strictly committed to safe play, 18+ player age verification, self-exclusion options, and player welfare.",
-    url: "https://ramji247id.com/responsible-gaming",
+    url: "https://www.ramji247id.com/responsible-gaming",
     siteName: "RAMJI247",
     images: [
       {

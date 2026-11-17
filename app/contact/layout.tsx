@@ -5,12 +5,12 @@ export const metadata: Metadata = {
   description: "Connect with verified RAMJI247 customer care on WhatsApp at +91 8360750829 for instant ID creation and 24/7 support.",
   keywords: ["RAMJI247 contact","cricket id customer care","RAMJI247 whatsapp number"],
   alternates: {
-    canonical: "https://ramji247id.com/contact",
+    canonical: "https://www.ramji247id.com/contact",
   },
   openGraph: {
     title: "24/7 Official WhatsApp Customer Desk (+91 8360750829) | RAMJI247",
     description: "Connect with verified RAMJI247 customer care on WhatsApp at +91 8360750829 for instant ID creation and 24/7 support.",
-    url: "https://ramji247id.com/contact",
+    url: "https://www.ramji247id.com/contact",
     siteName: "RAMJI247",
     images: [
       {

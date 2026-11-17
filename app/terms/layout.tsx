@@ -5,12 +5,12 @@ export const metadata: Metadata = {
   description: "Read the official terms of service, informational scope, user eligibility, and governance standards for RAMJI247.",
   keywords: ["RAMJI247 terms","cricket id terms of service"],
   alternates: {
-    canonical: "https://ramji247id.com/terms",
+    canonical: "https://www.ramji247id.com/terms",
   },
   openGraph: {
     title: "Terms of Service & User Guidelines | RAMJI247",
     description: "Read the official terms of service, informational scope, user eligibility, and governance standards for RAMJI247.",
-    url: "https://ramji247id.com/terms",
+    url: "https://www.ramji247id.com/terms",
     siteName: "RAMJI247",
     images: [
       {

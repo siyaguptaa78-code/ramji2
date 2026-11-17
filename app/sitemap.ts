@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { RAMJI2_BLOG_POSTS } from './blog/blog-data';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://ramji247id.com';
+  const baseUrl = 'https://www.ramji247id.com';
   const currentDate = new Date().toISOString();
 
   const staticRoutes: MetadataRoute.Sitemap = [

@@ -1,34 +1,34 @@
 import type { Metadata } from 'next';
 import './globals.css';
-import { 
-  Navbar, 
-  Footer, 
-  WhatsAppFloatingButton, 
-  LiveTicker, 
+import {
+  Navbar,
+  Footer,
+  WhatsAppFloatingButton,
+  LiveTicker,
   JsonLd,
-  SITE_CONFIGS 
+  SITE_CONFIGS
 } from '@ramji/shared';
 
 const config = SITE_CONFIGS.ramji2;
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://ramji247id.com'),
+  metadataBase: new URL('https://www.ramji247id.com'),
   title: {
-    default: "RAMJI247 | India's Most Trusted Online Cricket ID & 60-Second Instant Account Provider",
+    default: "RAMJI247 | Verified Online Cricket ID & Exchange Platform",
     template: "%s | RAMJI247",
   },
   description: config.description,
-  keywords:   [
-      "RAMJI247",
-      "RAMJI247 ID",
-      "Online Cricket ID",
-      "Cricket ID Online",
-      "Cricket ID Provider",
-      "Online Cricket Account",
-      "Cricket ID Registration",
-      "Cricket ID WhatsApp Number",
-      "Fast Withdrawal Cricket ID",
-      "Instant WhatsApp ID"
+  keywords: [
+    "RAMJI247",
+    "RAMJI247 ID",
+    "Online Cricket ID",
+    "Cricket ID Online",
+    "Cricket ID Provider",
+    "Online Cricket Account",
+    "Cricket ID Registration",
+    "Cricket ID WhatsApp Number",
+    "Fast Withdrawal Cricket ID",
+    "Instant WhatsApp ID"
   ],
   authors: [{ name: config.name }],
   creator: config.name,
@@ -116,33 +116,12 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <head>
-        {/* Google Tag Manager */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WLGW7WZV');`,
-          }}
-        />
-        {/* End Google Tag Manager */}
         <JsonLd data={jsonLdData} />
       </head>
       <body className="bg-[#0c0806] text-neutral-100 flex flex-col min-h-screen antialiased selection:bg-amber-500 selection:text-black">
-        {/* Google Tag Manager (noscript) */}
-        <noscript>
-          <iframe
-            src="https://www.googletagmanager.com/ns.html?id=GTM-WLGW7WZV"
-            height="0"
-            width="0"
-            style={{ display: 'none', visibility: 'hidden' }}
-          />
-        </noscript>
-        {/* End Google Tag Manager (noscript) */}
         <LiveTicker />
-        <Navbar 
-          siteName={config.name} 
+        <Navbar
+          siteName={config.name}
           brandNumber={config.brandNumber}
           accentColor="text-amber-400 border-amber-500/30"
           badgeStyle="bg-amber-500/10 text-amber-400"
@@ -150,14 +129,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <main className="flex-1 w-full">
           {children}
         </main>
-        <Footer 
-          siteName={config.name} 
-          brandNumber={config.brandNumber} 
-          tagline={config.tagline} 
+        <Footer
+          siteName={config.name}
+          brandNumber={config.brandNumber}
+          tagline={config.tagline}
         />
-        <WhatsAppFloatingButton 
-          siteName={config.name} 
-          customMessage={config.defaultWhatsAppMessage} 
+        <WhatsAppFloatingButton
+          siteName={config.name}
+          customMessage={config.defaultWhatsAppMessage}
         />
       </body>
     </html>

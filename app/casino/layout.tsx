@@ -5,12 +5,12 @@ export const metadata: Metadata = {
   description: "Enjoy live dealer Teen Patti, Andar Bahar, Roulette, and Aviator with 2-minute instant cashouts on RAMJI247.",
   keywords: ["RAMJI247 casino","live teen patti","andar bahar cash","online casino id india"],
   alternates: {
-    canonical: "https://ramji247id.com/casino",
+    canonical: "https://www.ramji247id.com/casino",
   },
   openGraph: {
     title: "Live Casino, Teen Patti & Indian Card Games | RAMJI247",
     description: "Enjoy live dealer Teen Patti, Andar Bahar, Roulette, and Aviator with 2-minute instant cashouts on RAMJI247.",
-    url: "https://ramji247id.com/casino",
+    url: "https://www.ramji247id.com/casino",
     siteName: "RAMJI247",
     images: [
       {

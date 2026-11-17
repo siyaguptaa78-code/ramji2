@@ -351,7 +351,7 @@ export default function HomePage() {
       {/* 6. FAQ SECTION */}
       <FaqAccordion 
         faqs={GENERAL_FAQS}
-        title="Ramji2 Frequently Asked Questions"
+        title="RAMJI247 ID Frequently Asked Questions"
         subtitle="Everything you need to know about getting your instant ID, betting exchange rules, and withdrawals."
         brandPrimary="text-amber-400"
       />
