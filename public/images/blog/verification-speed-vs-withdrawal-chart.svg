@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="#0c0806"/>
+  <text x="40" y="45" font-family="'Montserrat', sans-serif" font-weight="800" font-size="20" fill="#f59e0b">Withdrawal Timeline: Verified ID vs Unverified Delays</text>
+  <text x="40" y="70" font-family="'Poppins', sans-serif" font-size="13" fill="#a8a29e">Comparing automated UPI processing times based on player verification status.</text>
+
+  <rect x="40" y="110" width="720" height="75" rx="8" fill="#18110b" stroke="#10b981" stroke-width="2"/>
+  <text x="60" y="145" font-family="'Montserrat', sans-serif" font-weight="800" font-size="16" fill="#10b981">VERIFIED RAMJI247 ID: 10 – 15 MINUTES</text>
+  <text x="60" y="170" font-family="'Poppins', sans-serif" font-size="13" fill="#d6d3d1">Automated payout routing via instant UPI/IMPS without manual manager holding.</text>
+
+  <rect x="40" y="210" width="720" height="75" rx="8" fill="#18110b" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="60" y="245" font-family="'Montserrat', sans-serif" font-weight="800" font-size="16" fill="#ef4444">UNVERIFIED / TELEGRAM LOCAL AGENTS: 24 TO 72 HOURS (OR FROZEN)</text>
+  <text x="60" y="270" font-family="'Poppins', sans-serif" font-size="13" fill="#d6d3d1">Frequent payment stalls, hidden commission cuts, and delayed transaction approvals.</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="#0c0806"/>
+  <text x="40" y="45" font-family="'Montserrat', sans-serif" font-weight="800" font-size="20" fill="#f59e0b">Cryptographic Data Protection: Transit &amp; Rest</text>
+  <text x="40" y="70" font-family="'Poppins', sans-serif" font-size="13" fill="#a8a29e">Zero plain-text transmission across player, exchange desk, and automated banking.</text>
+
+  <rect x="40" y="100" width="220" height="200" rx="8" fill="#18110b" stroke="#332115"/>
+  <text x="60" y="135" font-family="'Montserrat', sans-serif" font-weight="700" font-size="14" fill="#ffffff">PLAYER DEVICE</text>
+  <text x="60" y="170" font-family="'Poppins', sans-serif" font-size="13" fill="#d6d3d1">• TLS 1.3 Handshake</text>
+  <text x="60" y="200" font-family="'Poppins', sans-serif" font-size="13" fill="#d6d3d1">• SHA-384 Cipher Suites</text>
+  <text x="60" y="230" font-family="'Poppins', sans-serif" font-size="13" fill="#d6d3d1">• Perfect Forward Secrecy</text>
+
+  <text x="290" y="195" font-family="'Montserrat', sans-serif" font-weight="900" font-size="24" fill="#f59e0b">➔</text>
+
+  <rect x="330" y="100" width="220" height="200" rx="8" fill="#18110b" stroke="#f59e0b"/>
+  <text x="350" y="135" font-family="'Montserrat', sans-serif" font-weight="700" font-size="14" fill="#ffffff">GATEWAY ROUTER</text>
+  <text x="350" y="170" font-family="'Poppins', sans-serif" font-size="13" fill="#d6d3d1">• Tokenized Identifiers</text>
+  <text x="350" y="200" font-family="'Poppins', sans-serif" font-size="13" fill="#d6d3d1">• Zero raw credential store</text>
+  <text x="350" y="230" font-family="'Poppins', sans-serif" font-size="13" fill="#d6d3d1">• Ephemeral Redis Keys</text>
+
+  <text x="580" y="195" font-family="'Montserrat', sans-serif" font-weight="900" font-size="24" fill="#f59e0b">➔</text>
+
+  <rect x="620" y="100" width="140" height="200" rx="8" fill="#18110b" stroke="#10b981"/>
+  <text x="635" y="135" font-family="'Montserrat', sans-serif" font-weight="700" font-size="14" fill="#10b981">SETTLEMENT</text>
+  <text x="635" y="170" font-family="'Poppins', sans-serif" font-size="13" fill="#d6d3d1">• IMPS / UPI</text>
+  <text x="635" y="200" font-family="'Poppins', sans-serif" font-size="13" fill="#d6d3d1">• Automated API</text>
+  <text x="635" y="230" font-family="'Poppins', sans-serif" font-size="13" fill="#d6d3d1">• Sub-15 Min</text>
+</svg>

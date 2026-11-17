@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="#0c0806"/>
+  <text x="40" y="45" font-family="'Montserrat', sans-serif" font-weight="800" font-size="20" fill="#f59e0b">Incident Response &amp; Account Lockdown Protocol</text>
+  <text x="40" y="70" font-family="'Poppins', sans-serif" font-size="13" fill="#a8a29e">Emergency 4-step sequence if suspicious login activity is flagged.</text>
+
+  <rect x="40" y="100" width="165" height="190" rx="8" fill="#18110b" stroke="#f59e0b"/>
+  <text x="55" y="130" font-family="'Montserrat', sans-serif" font-weight="800" font-size="13" fill="#f59e0b">STEP 1: FLAG</text>
+  <text x="55" y="160" font-family="'Poppins', sans-serif" font-weight="700" font-size="14" fill="#ffffff">Detect Anomaly</text>
+  <text x="55" y="190" font-family="'Poppins', sans-serif" font-size="12" fill="#d6d3d1">Unknown device or unexpected login alert notification.</text>
+
+  <rect x="225" y="100" width="165" height="190" rx="8" fill="#18110b" stroke="#f59e0b"/>
+  <text x="240" y="130" font-family="'Montserrat', sans-serif" font-weight="800" font-size="13" fill="#f59e0b">STEP 2: TERMINATE</text>
+  <text x="240" y="160" font-family="'Poppins', sans-serif" font-weight="700" font-size="14" fill="#ffffff">Kill Sessions</text>
+  <text x="240" y="190" font-family="'Poppins', sans-serif" font-size="12" fill="#d6d3d1">One-click revoke all active device sessions in dashboard.</text>
+
+  <rect x="410" y="100" width="165" height="190" rx="8" fill="#18110b" stroke="#f59e0b"/>
+  <text x="425" y="130" font-family="'Montserrat', sans-serif" font-weight="800" font-size="13" fill="#f59e0b">STEP 3: RESET</text>
+  <text x="425" y="160" font-family="'Poppins', sans-serif" font-weight="700" font-size="14" fill="#ffffff">Change Passcode</text>
+  <text x="425" y="190" font-family="'Poppins', sans-serif" font-size="12" fill="#d6d3d1">Deploy new 16+ character passphrase and re-pair 2FA key.</text>
+
+  <rect x="595" y="100" width="165" height="190" rx="8" fill="#18110b" stroke="#10b981"/>
+  <text x="610" y="130" font-family="'Montserrat', sans-serif" font-weight="800" font-size="13" fill="#10b981">STEP 4: VERIFY</text>
+  <text x="610" y="160" font-family="'Poppins', sans-serif" font-weight="700" font-size="14" fill="#ffffff">Help Desk Audit</text>
+  <text x="610" y="190" font-family="'Poppins', sans-serif" font-size="12" fill="#d6d3d1">Notify official 24/7 WhatsApp help desk for freeze audit.</text>
+</svg>
